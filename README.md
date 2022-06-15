@@ -1,5 +1,5 @@
 # Webscraping 100 Universities
-A small project to learn webscraping.
+A small project to learn webscraping using python in Jupyter Notebook.
 
 The code reads the website, parses the html, extracts the data (university name and a link to the university) and displays it in a dataframe format. It uses the BeautifulSoup4 and Pandas Libraries.
 
